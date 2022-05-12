@@ -3,3 +3,5 @@ A preliminary version of a software developed for demonstration purposes.
 complete requirements are known.
 
 Used in design of online systems.
+
+Adding a statement for evolutionary sdlc on bugfix branch.

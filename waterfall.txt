@@ -3,3 +3,5 @@ Seperate and distinct phases with no overlapping.
 Used when requirements are very clear.
 
 used in small projeects
+
+Adding a statement for waterfall sdlc on bugfix branch.
