@@ -1,3 +1,5 @@
 entire process is represented as a spiral than as a sequence
 
 backtracking is possible.
+
+used in military combat systems.

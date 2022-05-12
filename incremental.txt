@@ -1,3 +1,5 @@
 used when requirements are highly complex.
 
-customer value can be delivered with each increment
+customer value can be delivered with each increment.
+
+Used in NASA space shuttle software.
