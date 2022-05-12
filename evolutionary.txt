@@ -1,1 +1,3 @@
 A preliminary version of a software developed for demonstration purposes.
+
+complete requirements are known #modified in remote repo
