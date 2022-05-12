@@ -1,1 +1,3 @@
 Seperate and distinct phases with no overlapping.
+
+Used when requirements are very clear.
