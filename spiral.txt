@@ -1,1 +1,3 @@
 entire process is represented as a spiral than as a sequence
+
+backtracking is possible.
