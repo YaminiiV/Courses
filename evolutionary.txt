@@ -1,0 +1,1 @@
+A preliminary version of a software developed for demonstration purposes.
